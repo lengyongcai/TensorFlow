@@ -1,6 +1,8 @@
 #coding:utf-8
-
-# 多层感知机，添加Dropout, Adagrad, ReLU
+""" 
+Created on 2016-07-15 @author: yongcai
+使用多层感知机训练MNIST数据集，同时使用Dropout, Adagrad, ReLU
+"""
 
 
 from tensorflow.examples.tutorials.mnist import input_data

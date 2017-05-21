@@ -1,7 +1,10 @@
 #coding:utf-8
+""" 
+Created on 2016-07-20 @author: yongcai
+把图片转换成数组          ImageToMatrix
+把数组转换成图片          MatrixToImage
+"""
 
-# 可以把图片转换成数组的形式，    ImageToMatrix
-# 将数组转换成图片              MatrixToImage
 
 from PIL import Image
 import numpy as np

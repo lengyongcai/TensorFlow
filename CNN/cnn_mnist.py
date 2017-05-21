@@ -1,4 +1,9 @@
 # coding:utf-8
+
+""" 
+Created on 2016-07-10 @author: yongcai
+使用卷积神经网络来训练MNIST数据
+"""
 # 使用卷积神经网络来识别mnist数据集中的图片，
 
 from __future__ import absolute_import

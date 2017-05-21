@@ -1,6 +1,9 @@
 #coding:utf-8
+""" 
+Created on 2016-07-17 @author: yongcai
+使用softmax_regression　方法来预测ＭＮＩＳＴ数据集的图片识别
+"""
 
-# 使用softmax_regression　方法来预测ＭＮＩＳＴ数据集的图片识别
 
 import tensorflow as tf
 
